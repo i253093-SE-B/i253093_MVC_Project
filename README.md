@@ -5,7 +5,7 @@ This project uses a Multilayer Perceptron (Neural Network) built in Python to re
 Folders
 * src/: Contains the Python code (Jupyter Notebook).
 * report/: Contains the final project PDF.
-* data/: This folder is used to store the MNIST dataset files when the code runs.
+* data/: This folder is used to tell about the MNIST dataset files when the code runs.
 
  Instructions to Run the Notebook
 1. Open Google Colab in your web browser.
